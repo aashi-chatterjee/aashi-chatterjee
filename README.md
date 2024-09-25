@@ -1,4 +1,4 @@
-👋 Hi, I’m @aashi-chatterjee, a full time student.
+👋 Hi, I’m @aashi-chatterjee, a full time student.<br/>
 👀 I’m interested in AI and game development 🎮
 - 🌱 I’m currently learning Python and C# ⌨️
 - 💞️ I’m looking to collaborate on any project I can learn from 💕
