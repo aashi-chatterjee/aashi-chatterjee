@@ -1,5 +1,5 @@
 # 👋🏽 Hi, I'm Aashi!
-✍🏽 A full time student at Swami Vivekananda University, Barrackpore.<br>🎮 Interested in AI and game development <br>⌨️ Currently learning Python and C# <br>🤝 I’m looking to collaborate on any project I can learn from <br>📫 How to reach me: You can find my it in my link tree project😉<br>🦀 Fun fact: I'm into making YouTube videos, Animations, producing music too👀<br>
+✍🏽 B.Tech CSE graduate from Swami Vivekananda University, Barrackpore.<br>🎮 Interested in AI and game development <br>⌨️ Currently learning Python and C# <br>🤝 I’m looking to collaborate on any project I can learn from <br>📫 How to reach me: You can find my it in my link tree project😉<br>🦀 Fun fact: I'm into making YouTube videos, Animations, producing music too👀<br>
 
 
 # 💻 Tech Stack
